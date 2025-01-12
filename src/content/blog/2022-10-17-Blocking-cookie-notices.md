@@ -1,7 +1,9 @@
 ---
 title: "How to block every cookie notice on the internet"
 pubDate: 'Oct 17 2022'
-tags: guides browser-plugins
+tags: [guides browser-plugins]
+description: Making the internet 70% less annoying
+published: true
 ---
 
 So this is something I just recently figured out. Many of you may have already installed [uBlock Origin](https://ublockorigin.com/) in your web browsers. If you haven't, I recommend you do so—blocking ads makes your computer more secure and speeds up your internet experience.

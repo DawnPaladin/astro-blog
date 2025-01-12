@@ -2,6 +2,8 @@
 title: "Meta-advice"
 comments: true
 pubDate: 'Feb 17 2024'
+description: Good advice is always contextual.
+published: true
 ---
 
 ## Good advice is always contextual.

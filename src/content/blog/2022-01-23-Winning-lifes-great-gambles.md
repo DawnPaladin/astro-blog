@@ -1,8 +1,9 @@
 ---
 title: "Winning Life's Great Gambles"
 pubDate: 2022-01-23
-excerpt: Good judgment, illustrated with memes
-tags: book-report how-will-you-measure-your-life
+description: Good judgment, illustrated with memes
+tags: [book-report how-will-you-measure-your-life]
+published: true
 ---
 
 *Note: This post is themed around chapter 3 of* [How Will You Measure Your Life](/blog/Rewarding-work/), *but it also contains information from other chapters, along with my own opinions. Any errors are probably mine.*

@@ -2,8 +2,9 @@
 title: "Rewarding Work"
 pubDate: 2021-12-22
 comments: true
-excerpt: Choosing a job that you love vs. one you don't hate
-tags: book-report how-will-you-measure-your-life
+description: Choosing a job that you love vs. one you don't hate
+tags: [book-report how-will-you-measure-your-life]
+published: true
 ---
 
 ## Introduction

@@ -5,10 +5,11 @@ comments: true
 toc: true
 toc_sticky: true
 toc_label: Table of Contents
-excerpt: The best antidote to fear is having a plan. Let's make a plan for what would happen to your files if your house burned down.
-tags: guides hardened-infrastructure
+description: The best antidote to fear is having a plan. Let's make a plan for what would happen to your files if your house burned down.
+tags: [guides hardened-infrastructure]
 sidebar:
   nav: "hardened-infrastructure"
+published: true
 ---
 
 _Part of my series on [hardening your personal infrastructure](/blog/Hardening-your-personal-infrastructure). A guide for Windows and MacOS._

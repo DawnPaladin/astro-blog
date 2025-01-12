@@ -2,6 +2,8 @@
 title: "Police, Principles, and Putin"
 comments: true
 tags: memes
+description: I spent almost 10 years of my childhood in Russia. Russia is kind of a different planet than the United States.
+published: true
 ---
 
 I spent almost 10 years of my childhood in Russia. Russia is kind of a different planet than the United States.

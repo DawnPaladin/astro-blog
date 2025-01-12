@@ -2,6 +2,8 @@
 title: "Community and COVID-19"
 comments: true
 tags: memes disasters hope
+description: The apocalypse is here, and it isn't that bad.
+published: true
 ---
 
 The apocalypse is here, and it isn't that bad.

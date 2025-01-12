@@ -1,12 +1,13 @@
 ---
 title: "Infrastructure hardening: File syncing"
 comments: true
-excerpt: The first thing you're probably going to want is a way to auto-synchronize files between computers; once you have that, we can build a few things on top of it.
-tags: guides hardened-infrastructure
+description: The first thing you're probably going to want is a way to auto-synchronize files between computers; once you have that, we can build a few things on top of it.
+tags: [guides hardened-infrastructure]
 pubDate: 2021-07-20
 sidebar:
   nav: "hardened-infrastructure"
 last_modified_at: 2021-10-03
+published: true
 ---
 
 _Previously in this series: [Hardening your personal infrastructure](/blog/Hardening-your-personal-infrastructure)_
